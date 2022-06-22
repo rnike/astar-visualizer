@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/astar-visualizer/static/css/main.5bc74d41.css",
+    "main.js": "/astar-visualizer/static/js/main.ff18880d.js",
+    "index.html": "/astar-visualizer/index.html",
+    "main.5bc74d41.css.map": "/astar-visualizer/static/css/main.5bc74d41.css.map",
+    "main.ff18880d.js.map": "/astar-visualizer/static/js/main.ff18880d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bc74d41.css",
+    "static/js/main.ff18880d.js"
+  ]
+}
