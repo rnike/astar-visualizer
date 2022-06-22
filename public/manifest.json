@@ -1,0 +1,9 @@
+{
+  "short_name": "pathfinding",
+  "name": "pathfinding visualizer",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
